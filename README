@@ -2,7 +2,7 @@
 
 This project implements an inference-time reasoning agent for answering math, logic, and commonsense questions.
 
-## 1. Setup
+## 1. Setup (MUST BE ON ASU network. USE cisco ssl vpn if not)
 
 1. **Clone or download** this repository.
 2. Make sure you have **Python 3.8+** installed.
